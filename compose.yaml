@@ -1,0 +1,4 @@
+services:
+  script:
+    build: .
+    command: ["python", "main.py"]
